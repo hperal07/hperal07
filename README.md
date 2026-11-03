@@ -53,15 +53,6 @@
 
 ---
 
-## 📊 Mis estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hperal07&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hperal07&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
 ## 📌 Mis proyectos
 
 🚧 Actualmente trabajando en mis primeros proyectos y prácticas de ASIR.
